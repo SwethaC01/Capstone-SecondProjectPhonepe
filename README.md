@@ -16,12 +16,12 @@ Phonepe Pulse Data Visualization and Exploration project is used to visualize th
 
 ## Technologies Used:
 
-  ~ GitHub Cloning
-  ~ Python
-  ~ MySQL
-  ~ Pandas
-  ~ Streamlit
-  ~ Plotly
+  * GitHub Cloning
+  * Python
+  * MySQL
+  * Pandas
+  * Streamlit
+  * Plotly
 
 ### 💻 Import Packages
 
